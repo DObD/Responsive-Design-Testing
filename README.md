@@ -14,3 +14,5 @@ http://mattkersley.com/responsive?google.com
 
 Once you've uploaded, you can navigate your website from within the iframes, and the others will update.
 This won't work for external sites however due to browser security restrictions.
+
+- Thanks to @mattkersley for the original project this is forked from.
